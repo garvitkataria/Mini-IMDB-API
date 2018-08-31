@@ -1,8 +1,6 @@
 -- Please Open In SUBILME TEXT EDITOR
 Garvit Kataria 201601028
-Bhavi Chawala 201601011
 
-What We Have Done
 1. 4 queries with atleast 7 joins in each.
 2. For each query, proper analysis with indexes and without indexes is done.
 3. Total of 2 Procedures with IN and OUT variables have same queries to compare performance.
